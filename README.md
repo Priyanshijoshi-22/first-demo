@@ -1,2 +1,3 @@
-# first-demo
+# First-demo
 First git repository
+Author Priyanshi
